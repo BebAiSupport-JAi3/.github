@@ -1,5 +1,5 @@
 # BebAi Support JAi3
-Asistente virtual, un bot de inteligencia Artificial de profesiones
+Asistente virtual, un bot de inteligencia Artificial para profesiones
 
 ![Screenshot](cap.png)
 
