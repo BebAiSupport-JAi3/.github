@@ -7,4 +7,4 @@ Clic image for the watch video.
 [![clic video](https://youtube.com/shorts/vVsKBIYLVLU?feature=share/0.jpg)](https://youtube.com/shorts/vVsKBIYLVLU?feature=share "clic aqui")
 
 
-![Screenshot](mi bot.jpg)
+![Screenshot](cap.png)
